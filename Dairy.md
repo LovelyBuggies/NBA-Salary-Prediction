@@ -12,3 +12,23 @@
 
 `player_data.csv`和`players.csv`都是描述球员基本信息的（什么大学啊、年龄啊、blablabla...）没啥用处。
 
+---
+
+## 7.20
+
+Azure 好慢啊！
+
+那些modules的API呢？
+
+R好难啊！
+
+先用python notebook写出来然后放到Azure上吧！
+
+~~当然要是能找到modules的API就继续做咯...~~
+
+好烦啊！
+
+---
+
+
+
