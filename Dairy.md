@@ -30,7 +30,7 @@ R好难啊！
 
 ## 7.22
 
-立了个flag，说727之前给wild老师写个report。😊终于找了个[好repo](https://github.com/ak4248)。
+立了个flag，说727之前给wild老师写个report。😊终于找了个[好repo](https://github.com/ak4248)。这几天对着看代码然后写report算了。最后一天拿到Azure上跑一下。。。[坏笑...]
 
 ---
 
