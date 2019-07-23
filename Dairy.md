@@ -40,4 +40,8 @@ R好难啊！
 
 用Microsoft Azure Notebook 不仅加速了还可以改python版本。Studio不能改版本，所以很多语法等等很难支持。Notebook简直跟服务器一样好用。
 
+Merge 不太好但先这样，最后再改，然后特例找几个好写文档。
+
+竟然写完了model之前的内容😊
+
 ---
