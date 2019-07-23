@@ -34,3 +34,10 @@ R好难啊！
 
 ---
 
+## 7.23
+
+终于脱离了那个慢到令人发指的Azure AI Studio 的束缚。
+
+用Microsoft Azure Notebook 不仅加速了还可以改python版本。Studio不能改版本，所以很多语法等等很难支持。Notebook简直跟服务器一样好用。
+
+---
