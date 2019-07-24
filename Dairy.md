@@ -38,7 +38,7 @@ R好难啊！
 
 终于脱离了那个慢到令人发指的Azure AI Studio 的束缚。
 
-用Microsoft Azure Notebook 不仅加速了还可以改python版本。Studio不能改版本，所以很多语法等等很难支持。Notebook简直跟服务器一样好用。
+用Microsoft Azure Notebook 不仅加速了还可以改python版本（*因为f\"的语法仅在3.5之后支持，所以一定要change到3.6的kernel*）。Studio不能改版本，所以很多语法等等很难支持。Notebook简直跟服务器一样好用。
 
 Merge 不太好但先这样，最后再改，然后特例找几个好写文档。
 
