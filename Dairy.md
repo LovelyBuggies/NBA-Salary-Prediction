@@ -45,3 +45,14 @@ Merge 不太好但先这样，最后再改，然后特例找几个好写文档�
 竟然写完了model之前的内容😊
 
 ---
+
+## 7.24
+
+遇到了一个神奇的问题！我竟然神奇滴解决了！
+
+打开notebook反应不出来啊！反应不出来！显示`Error loading notebook`，弄了一下午终于找到原因了（*确切地说是找到解决办法了*），login/logout就可以解决——https://github.com/Microsoft/AzureNotebooks/issues/508。真是nice极了！
+
+---
+
+
+
