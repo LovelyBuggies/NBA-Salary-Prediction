@@ -52,6 +52,10 @@ Merge 不太好但先这样，最后再改，然后特例找几个好写文档�
 
 打开notebook反应不出来啊！反应不出来！显示`Error loading notebook`，弄了一下午终于找到原因了（*确切地说是找到解决办法了*），login/logout就可以解决——https://github.com/Microsoft/AzureNotebooks/issues/508。真是nice极了！
 
+提了一个issue。
+
+![](https://i.loli.net/2019/07/24/5d381e58a27c352260.png)
+
 ---
 
 
