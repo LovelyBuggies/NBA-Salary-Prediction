@@ -36,7 +36,7 @@
 
 ## 项目简介
 
-为了帮助球队老板综合评估球员实力，以及帮助NBA球员合理地定位自己的价值，此实验用[Microsoft Azure Notebook](https://notebooks.azure.com/)搭建了一些回归模型，为了初步预测NBA球员能够获得的薪水。本实验从[🏀Basketball Reference](https://www.basketball-reference.com/)爬取了2010到2019年的球员基本数据和薪资情况，经过了数据预处理之后用sklearn中多种回归方法进行预测。数据表明，这种预测虽然是有效的 ，但是在变幻莫测、瞬息万变的NBA球员市场中，仅仅依赖这种方法进行预测对老板们来说可能并不可靠。
+为了帮助球队老板综合评估球员实力，以及帮助NBA球员合理地定位自己的价值，此实验用[Microsoft Azure Notebook](https://notebooks.azure.com/)搭建了一些回归模型，为了初步预测NBA球员能够获得的薪水。本实验从[🏀Basketball Reference](https://www.basketball-reference.com/)爬取了2010到2019年的球员基本数据和薪资情况，经过了数据预处理之后用sklearn中多种回归方法进行预测。数据表明，这种预测虽然是有效的 ，但是在变幻莫测、瞬息万变的NBA球员市场中，仅仅依赖这种方法进行预测对老板们来说可能并不可靠。点击[**这里**](https://gallery.azure.ai/Collection/NBA-salary-prediction)查看项目的AI Gallery地址，您也可以从[**这里**](https://notebooks.azure.com/ninomyemail/projects/nba-salary-prediction)查看Azure Notebook项目原始地址获取源代码。
 
 ![](http://ww4.sinaimg.cn/bmiddle/006tNc79gy1g5huoqkd6yj30f108cmx9.jpg)
 
