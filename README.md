@@ -1,7 +1,5 @@
 # 用Microsoft Azure Notebook预测NBA球员的薪水
 
----
-
 
 ## 背景介绍
 
